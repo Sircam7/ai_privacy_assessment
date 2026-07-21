@@ -1,0 +1,152 @@
+{
+  "user_id": "",
+
+  "identity": {
+    "id": "",
+    "username": "",
+    "real_name": "",
+    "email": "",
+    "phone": "",
+    "birth_date": "",
+    "height": "",
+    "weight": "",
+    "language": "",
+    "gender": "",
+    "marital_status": "",
+    "race": "",
+    "ethnicity": "",
+    "orientation": "",
+    "religion": "",
+    "politics": "",
+    "union": "",
+    "affiliations": "",
+    "health_status": "",
+    "residence_type":"",
+    "living_arrangement":""
+  },
+
+  "demographics_inferred": {
+    "age_range": "",
+    "country": "",
+    "region_probability": {
+      "Province 1": 0.6,
+      "Area": 0.3,
+      "unknown": 0.1
+    },
+    "socioeconomic_segment": "",
+    "home_ownership_probability": "",
+    "vehicle_ownership_probability": "",
+    "current_location_estimated": ""
+  },
+
+  "device_profile": {
+    "device_type": "",
+    "os": "",
+    "browser":"",
+    "browser_fingerprint_score": 0.0,
+    "tracking_methods": [], 
+    "digital_maturity":"",
+    "average_online_hours_daily": ""
+  },
+
+  "professional_inference": {
+    "primary_guess": "",
+    "confidence": 0.0,
+    "domain_tags": [ ],
+    "job_type_cluster": "",
+    "industry":"",
+    "company_size":"",
+    "years_experience":"",
+    "leadership_potential":"",
+    "career_aspiration":"",
+    "work_model":"",
+    "weekly_workload_hours":"",
+    "stress_level":""
+  },
+
+  "education_profile": {
+    "highest_education": "",
+    "fields": [ ],
+    "certifications": [ ],
+    "continuous_learning_probability": 0.00
+  },
+
+  "financial_profile": {
+    "estimated_income_range_eur":"",
+    "employment_stability":"",
+    "savings_level":"",
+    "financial_behavior":"",
+    "credit_risk_profile":"",
+    "investment_interest":"",
+    "renting_vehicle_interest":"",
+    "monthly_discretionary_budget_estimated":"",
+    "financial_planning_tendency":"",
+    "major_purchase_focus": [],
+    "financial_stress_probability":""
+  },
+
+  "family_context": {
+    "children": 0,
+    "children_age": [0]
+  },
+
+  "commercial_segments": [],
+
+  "interest_segments": {
+    "explicit": [ ],
+    "inferred": [ ]
+  },
+
+  "consumer_profile": {
+    "purchase_style": "",
+    "decision_factors": [ ],
+    "price_segment": "",
+    "brand_sensitivity": ""
+  },
+
+  "lifestyle_summary": {
+    "time_availability": "",
+    "workload_level": "",
+    "family_orientation": "",
+    "decision_complexity_preference": ""
+  },
+
+  "product_interests": {
+    "high_relevance": [ ],
+    "medium_relevance": [ ]
+  },
+
+  "behavioural_model": {  
+    "analytical_tendency" : 0.00,
+    "privacy_sensitivity" : 0.00,
+    "system_awareness" : 0.00,
+    "self_reflective_behavior" : 0.00,
+    "brand_loyalty" : 0.00,
+    "social_validation_need" : 0.00,
+    "future_planning_tendency" : 0.00,
+    "optimization_behavior" : 0.00,
+    "emotional_purchase_probability" :0.00
+  },
+
+  "interest_probabilities": { },
+
+  "notes": {
+    "data_type": "",
+    "limitations": "",
+    "data_quality_score": 0.0,
+    "data_quality_score_rationale": "",
+    "inference_confidence": "",
+    "inference_confidence_score": {
+      "global": 0.00,
+      "identity": 0.00,
+      "demographics_inferred": 0.00,
+      "professional_inference": 0.00,
+      "financial_profile": 0.00,
+      "family_context": 0.00,
+      "interest_segments": 0.00,
+      "consumer_profile": 0.00,
+      "lifestyle_summary": 0.00,
+      "behavioural_model": 0.00
+    }
+  }
+}
