@@ -4,11 +4,11 @@ Repository for my Cybersecurity Master Thesis deliverables: the final paper, sub
 
 Contains:
 
-- Master Thesis final paper: fichero.pdf (pendiente de subir version final)
-- Experiment Template data file: privacy evaluation_experiment.xlsx
-- JSON profiling templates: profile.json & profile_rgpd.json
+- Master Thesis Final Paper: 1000066993_Felix_Aguilar_Sanchez_tfm_memoria_uc3m_signed.pdf - Delivered on 24/08/2026
+- Experiment Template Data File: privacy evaluation_experiment.xlsx
+- JSON Profiling Templates: profile.json & profile_rgpd.json
 - Example of health controls executed during the evaluation of Subject 3 with Gemini
-- Thesis Defense Presentation slides (pte de realizar y subir version final)
+- Thesis Defense Presentation Slides (pte de realizar y subir version final)
 
 \
 Félix Aguilar Sánchez, CISSP - @[Universidad Carlos III de Madrid](https://www.uc3m.es/)
