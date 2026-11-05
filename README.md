@@ -11,7 +11,7 @@ Contains:
 - Thesis Defense Presentation Slides: privacy_asses-ai_agents.ppsx - Defended on 28/09/2026
 
 \
-Author: Félix Aguilar Sánchez, CISSP.  
+Author: Félix Aguilar Sánchez, CISSP  
 Co-Author: Patricia Callejo Pinardo
 
 @[Universidad Carlos III de Madrid](https://www.uc3m.es/)
