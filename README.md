@@ -12,6 +12,6 @@ Contains:
 
 \
 Author: Félix Aguilar Sánchez, CISSP  
-Co-Author: Patricia Callejo Pinardo
+Co-Author: Patricia Callejo Pinardo, PhD
 
 @[Universidad Carlos III de Madrid](https://www.uc3m.es/)
